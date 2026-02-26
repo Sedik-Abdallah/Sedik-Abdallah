@@ -23,7 +23,7 @@ Full Stack Developer oriented toward **Data Analysis** and specialized in **indu
 
 ---
 
-## 🛠️ Technical Skills
+
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
