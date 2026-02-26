@@ -87,6 +87,19 @@
 
 
 
+## 📂 My Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| 🏭 **Predictive Maintenance** | Industrial machine monitoring system with real-time sensors (temperature, vibration, pressure, RPM) and ML-based failure prediction for preventive maintenance. | Django • Python • ML • JavaScript | [View Project](https://web-production-ee6c8.up.railway.app) |
+| 📦 **Supply Chain Management** | Order management system with delivery tracking, warehouse management (Casablanca/Tanger), ML-based cost calculation analytics , and status monitoring. | Django • MySQL • JavaScript • Power BI | [View Project](https://sedikabdallah2.pythonanywhere.com) |
+
+</div>
+
+---
+
 ## 👯 Looking to Collaborate
 
 <p align="center">
