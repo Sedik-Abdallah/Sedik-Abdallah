@@ -82,18 +82,6 @@
 
 </div>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sedik-Abdallah&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sedik-Abdallah&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sedik-Abdallah&theme=radical&hide_border=true&area=true" alt="activity graph" />
-</p>
 
 ---
 
@@ -135,9 +123,6 @@
 
 ## ⚡ Fun Fact
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SclQC1VGlH0GyQv1rj/giphy.gif" width="150" />
-</p>
 
 > *"I'm passionate about transforming industrial operations through technology and data-driven solutions!"*
 
