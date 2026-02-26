@@ -8,13 +8,12 @@
   </a>
 </p>
 
----
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sedik-Abdallah&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/badge/-Followers-blue?style=flat&logo=github&logoColor=white&color=0e75b6" />
   <img src="https://img.shields.io/badge/-Stars-yellow?style=flat&logo=github&logoColor=white&color=f1c40f" />
-</p>
+</p> -->
 
 ---
 
@@ -126,12 +125,12 @@
 
 > *"I'm passionate about transforming industrial operations through technology and data-driven solutions!"*
 
----
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sedik-Abdallah&label=Thanks+for+visiting&color=2ecc71&style=flat-square" alt="visitors" />
   
-  ---
+
   
   ⭐️ From [Sedik-Abdallah](https://github.com/Sedik-Abdallah)
 </div>
