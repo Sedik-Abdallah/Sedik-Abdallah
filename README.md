@@ -7,7 +7,7 @@
 
 ## 📋 About Me
 
-Full Stack Developer oriented toward **Data Analysis** and specialized in **industrial data exploitation**. I master data preparation, exploratory analysis, and visualization (Power BI, Python). I create data-driven dashboards and tools to improve decision-making and operational performance. Rigorous, curious, and results-oriented professional with a strong **Industry 4.0** culture.
+Full Stack Developer oriented toward **Data Analysis** and specialized in **industrial data exploitation**. 
 
 ---
 
@@ -15,47 +15,11 @@ Full Stack Developer oriented toward **Data Analysis** and specialized in **indu
 
 - 📍 **Casablanca, Morocco**
 - 📧 **abdallah.sedik0@gmail.com**
-- 📱 **+212 656 380 284**
-- 💼 **LinkedIn:** [Sedik Abdallah](#) *(Add your LinkedIn URL)*
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/abdallah-sedik-3a9446397/]
 
 ---
 
-## 🎓 Education
 
-| Year | Degree | Institution | Location |
-|------|--------|-------------|----------|
-| 2022-2024 | Bachelor's Degree in Industrial Digitalization | École Nationale Supérieure d'Arts et Métiers (ENSAM) | Casablanca |
-| 2019-2020 | Specialized Technician - Web Full-Stack Development | Institut Spécialisé de formation de l'offshoring (ISFO) | Casablanca |
-| 2025-2026 | Baccalaureate in Physical and Chemical Sciences | Lycée BEN MSIK | Casablanca |
-
----
-
-## 🗣️ Languages
-
-- 🇸🇦 **Arabic** - Native
-- 🇫🇷 **French** - Fluent
-- 🇬🇧 **English** - Fluent
-
----
-
-## 💼 Professional Experience
-
-### Full Stack Developer (Intern)
-**Performance IA – Casablanca** | *April 2024*
-
-- Developed a web application for automating ad creation and publication
-- **Frontend:** React.js for responsive user interface
-- **Backend:** Python Flask for secure data handling and external API integration
-- **Database:** MongoDB for storage and data management
-- **Automation:** Selenium for reliable and efficient ad publishing
-
-### Full Stack Developer (Intern)
-**Performance IA – Casablanca** | *July 2024 – September 2024*
-
-- Developed a "Restaurant Management" web application using microservices architecture
-- **Backend:** Express.js for microservices implementation
-- **Database:** MongoDB for data storage and management
-- **Frontend:** React.js for modern, intuitive user experience
 
 ---
 
@@ -70,7 +34,7 @@ Full Stack Developer oriented toward **Data Analysis** and specialized in **indu
 
 ### Frameworks & Libraries
 - **Frontend:** React.js, Bootstrap
-- **Backend:** Node.js, Express.js, Flask
+- **Backend:** Node.js, Express.js, Flask,Django
 - **Databases:** MySQL, MongoDB
 - **Data & AI:** pandas, NumPy
 
@@ -78,30 +42,10 @@ Full Stack Developer oriented toward **Data Analysis** and specialized in **indu
 - Selenium, Visual Studio Code, Git, Postman, Docker, Power BI
 
 ### Data Visualization
-- Power BI, Matplotlib, Seaborn
+- Matplotlib, Seaborn
 
 ---
 
-## 📂 Featured Projects
-
-### 🎯 Internship Management System
-**GitHub:** [github.com/Sedik-Abdallah/gestion-des-stages](https://github.com/Sedik-Abdallah/gestion-des-stages)
-
-Complete web application for managing internships for students, companies, and administrators.
-
-- **Backend:** REST API with Node.js/Express for user, internship, application, and evaluation management
-- **Frontend:** React.js with role-based dashboards (admin, company, student)
-- **Authentication:** Secure JWT/session-based authentication with role management
-- **Database:** MongoDB for storing internship, company, student information, and tracking
-- **Features:** Job posting, online applications, assignment tracking, intern evaluation, report generation
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sedik-Abdallah&show_icons=true&theme=radical)
-
----
 
 ## 🔭 Current Focus
 
@@ -117,5 +61,3 @@ Complete web application for managing internships for students, companies, and a
 I'm passionate about transforming industrial operations through technology and data-driven solutions!
 
 ---
-
-*This README was created based on SEDIK ABDALLAH V1.2 profile*
