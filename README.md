@@ -78,7 +78,7 @@ Mission: Transforming Industry Through Intelligent Automation
 
 ## 🏭 Predictive Maintenance AI
 ```bash
-STATUS: ACTIVE
+STATUS: Suspended
 TYPE: Industrial Monitoring Platform
 STACK: Django | Python | Chart.js | ML
 ```
